@@ -1,0 +1,6 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+*.zip
+*.csv
+*template.ipynb
+submitted/
